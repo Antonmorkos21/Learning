@@ -1,8 +1,14 @@
-android/src/main/cpp/** linguist-vendored
+android/** linguist-vendored
 ios/** linguist-vendored
 macos/** linguist-vendored
-windows/** linguist-vendored
 linux/** linguist-vendored
-CMakeLists.txt linguist-vendored
-*.cmake linguist-vendored
+windows/** linguist-vendored
+build/** linguist-generated
 
+*.cmake linguist-vendored
+CMakeLists.txt linguist-vendored
+*.h linguist-vendored
+*.cpp linguist-vendored
+*.c linguist-vendored
+*.swift linguist-vendored
+*.html linguist-vendored
